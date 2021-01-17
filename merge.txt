@@ -1,1 +1,2 @@
 Merge conflict will happen
+Merge conflict will be happen.
